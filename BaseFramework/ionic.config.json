@@ -1,0 +1,7 @@
+{
+  "name": "BaseFramework",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
